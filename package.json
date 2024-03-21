@@ -1,0 +1,17 @@
+{
+  "name": "promise-a-plus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test-a-plus": "node ./src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@heteng99/linter": "^2.1.8",
+    "globals": "^14.0.0",
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
